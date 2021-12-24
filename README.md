@@ -3,7 +3,7 @@ Aqui, você encontra diversos materiais sobre Julia.
 Esse documento está em processo de elaboração.
 Fique a vontade para colaborar.
 
-Se quiser, pode entrar no [grupo do Telegram](t.me/juliabrasil),
+Se quiser, pode entrar no [grupo do Telegram](https://t.me/juliabrasil),
 um grupo bem ativo e sempre disposto ajudar.
 
 # Documentações Importantes
