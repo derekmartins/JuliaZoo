@@ -50,8 +50,9 @@ um grupo bem ativo e sempre disposto ajudar.
 [GeoStats.jl - An extensible framework for high-performance geostatistics in Julia.](https://juliaearth.github.io/GeoStats.jl/stable/)
 
 ## Cases Interessantes
-[Brasilian National Development Bank(BNDES) por Felipe Noronha](https://juliacomputing.com/case-studies/bndb/)
-
+[Brasilian National Development Bank(BNDES) por Felipe Noronha](https://juliacomputing.com/case-studies/bndb/)\
+[Julia in the Classroom](https://julialang.org/learning/classes/)\
+[F1’s Williams Racing inks deal with Julia Computing](https://www.blackbookmotorsport.com/news/f1-williams-racing-sponsor-julia-computing-dorilton-ventures)
 
 # Artigos - Conceitos
 [JuliaLang: The Ingredients for a Composable Programming Language](https://www.oxinabox.net/2020/02/09/whycompositionaljulia.html)\
@@ -62,4 +63,8 @@ um grupo bem ativo e sempre disposto ajudar.
 # Repositórios Interessantes
 [Tutorial Básico Sobre a Linguagem de Programação Julia pt-br](https://github.com/JuliaLangPt/tutorial_PT_BR)\
 [Julia Tutorials - Coffee in a Klein Bottle por Davi Barreira](https://github.com/davibarreira/Julia_Tutorials)\
-[Ciência de Dados e Computação Científica com Julia por Jose Storopoli](https://github.com/storopoli/Computacao-Cientifica)
+[Ciência de Dados e Computação Científica com Julia por Jose Storopoli](https://github.com/storopoli/Computacao-Cientifica)\
+[10 Julia Projects for Beginners](https://github.com/logankilpatrick/10-Julia-Projects-for-Beginners)
+
+# Podcasts
+[Talk Julia: Weekly Julia Programming News and Resources](https://www.talkjulia.com/)
